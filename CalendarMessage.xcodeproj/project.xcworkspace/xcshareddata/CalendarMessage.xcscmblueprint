@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a3c15fa6-9d8d-1844-9150-a78825aceac2++2610",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a3c15fa6-9d8d-1844-9150-a78825aceac2++2610" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a3c15fa6-9d8d-1844-9150-a78825aceac2++2610" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D4566816-66A5-4865-B93F-A8EBACF922C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a3c15fa6-9d8d-1844-9150-a78825aceac2++2610" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CalendarMessage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mac OS Project\/苹果日历群邀请\/code\/CalendarMessage\/CalendarMessage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.113\/svn\/MyRepository",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a3c15fa6-9d8d-1844-9150-a78825aceac2++2610"
+    }
+  ]
+}
